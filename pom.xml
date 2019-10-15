@@ -46,8 +46,6 @@
         <groupId>de.codecentric</groupId>
         <artifactId>spring-boot-admin-starter-client</artifactId>
     </dependency>
-
-
     <!--增加云配置的依赖-->
     <dependency>
         <groupId>org.springframework.cloud</groupId>
