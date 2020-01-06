@@ -53,6 +53,11 @@
         <version>2.0.0.RELEASE</version>
     </dependency>
 
+    <!--<dependency>  &lt;!&ndash;导入服务健康的jar包&ndash;&gt;-->
+        <!--<groupId>org.springframework.boot</groupId>-->
+        <!--<artifactId>spring-boot-starter-actuator</artifactId>-->
+    <!--</dependency>-->
+
 
 </dependencies>
 
